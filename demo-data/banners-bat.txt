@@ -1,0 +1,170 @@
+cd "C:\Users\wsantos\Documents\wget-win\bin"
+
+
+
+REM Alkosto Banners
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Alkosto" --no-check-certificate https://media.aws.alkosto.com/media/banners/8806088952741-enero11.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Alkosto" --no-check-certificate https://media.aws.alkosto.com/media/banners/8806098020836-enero11.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Alkosto" --no-check-certificate https://media.aws.alkosto.com/media/banners/Alkosto_bannerCategoria_smartphoneAccesorios.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Alkosto" --no-check-certificate https://media.aws.alkosto.com/media/banners/banbtnAK_portahpene1.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Alkosto" --no-check-certificate https://media.aws.alkosto.com/media/banners/banbtnKT_macene1mod.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Alkosto" --no-check-certificate https://media.aws.alkosto.com/media/banners/banner-iphone-ok.png
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Alkosto" --no-check-certificate https://media.aws.alkosto.com/media/banners/banner-polar-big-top.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Alkosto" --no-check-certificate https://media.aws.alkosto.com/media/banners/banner-top-cat-ak-5.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Alkosto" --no-check-certificate https://media.aws.alkosto.com/media/banners/BANNER%20PRINCIPAL%202.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Alkosto" --no-check-certificate https://media.aws.alkosto.com/media/banners/banprinAK_portasusene1.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Alkosto" --no-check-certificate https://media.aws.alkosto.com/media/banners/big-top-tv-lg-49LJ540T-enero1.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Alkosto" --no-check-certificate https://media.aws.alkosto.com/media/banners/BIGTOP-AK-4-Lav-ELEC-8KG-EWIE08F3MMG'GTL-ENE-1-12.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Alkosto" --no-check-certificate https://media.aws.alkosto.com/media/banners/btnpromo_portaacerene1mod.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Alkosto" --no-check-certificate https://media.aws.alkosto.com/media/banners/Cat-iPhoneX-1Dic.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Alkosto" --no-check-certificate https://media.aws.alkosto.com/media/banners/Cat-PreregistroHuaweiMate10-9Ene.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Alkosto" --no-check-certificate https://media.aws.alkosto.com/media/banners/CAT-XiaomiMiA1ok-14Dic.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Alkosto" --no-check-certificate https://media.aws.alkosto.com/media/banners/CATAK-LGK8conBBta-12Ene.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Alkosto" --no-check-certificate https://media.aws.alkosto.com/media/banners/CatAk-MOTOE4Plus-12Ene.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Alkosto" --no-check-certificate https://media.aws.alkosto.com/media/banners/CATAK-S7ok-27Dic.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Alkosto" --no-check-certificate https://media.aws.alkosto.com/media/banners/CATE-AK-TV-LG-49LJ550-40.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Alkosto" --no-check-certificate https://media.aws.alkosto.com/media/banners/CATE-AK-TV-SG-43MU61-V2.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Alkosto" --no-check-certificate https://media.aws.alkosto.com/media/banners/HomeTOp-Mate9Lite-5EneOK.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Alkosto" --no-check-certificate https://media.aws.alkosto.com/media/banners/HomeTop-SAMSUNGA3-9Ene.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Alkosto" --no-check-certificate https://media.aws.alkosto.com/media/banners/iphone-6-ok-enero2.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Alkosto" --no-check-certificate https://media.aws.alkosto.com/media/banners/PPAL-AK-3-TV--Tv49123cm-LG-49LJ540T-FHDIn-PROD-13-16ENERO.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Alkosto" --no-check-certificate https://media.aws.alkosto.com/media/banners/PPAL-AK-5-Hasta-30-Dcto-en-Neveras-electrolux-Dic-1-12.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Alkosto" --no-check-certificate https://media.aws.alkosto.com/media/banners/PPAL-AK-5-Lavadora-Samsung-Carga-Frontal-20-Kg-ENE-13-16.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Alkosto" --no-check-certificate https://media.aws.alkosto.com/media/banners/ppal-tv-samsung49MU6300-enero1.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Alkosto" --no-check-certificate https://media.aws.alkosto.com/media/banners/PpalAK-okSamsungA3-2017-12Ene.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Alkosto" --no-check-certificate https://media.aws.alkosto.com/media/banners/PpalKA-y7Prime-1Ene.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Alkosto" --no-check-certificate https://media.aws.alkosto.com/media/banners/TCAT-AK-4-Lavadora-ELECTROLUX-10Kg-EWIE10F3MMW-Blanco-ENE-1-9.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Alkosto" --no-check-certificate https://media.aws.alkosto.com/media/banners/TCAT-AK-4-Nev-Central-250lt-CCN250FXJX'I-ENE-1-9.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Alkosto" --no-check-certificate https://media.aws.alkosto.com/media/banners/TCAT-AK-5-Lav-Centrales-18Lb-LCA80GZI1'N-ENE-1-9.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Alkosto" --no-check-certificate https://media.aws.alkosto.com/media/banners/top-cat-samsung-43MU6103-enero1.jpg
+
+
+REM Exito Banners
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Exito" --no-check-certificate file:///S:/Reports/Colombia/Exito/Desktop/Homepage/HTML/Colombia_Exito_Desktop_Homepage_2018_1_11G1_files/1-combo-samsung-twocol.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Exito" --no-check-certificate file:///S:/Reports/Colombia/Exito/Desktop/Homepage/HTML/Colombia_Exito_Desktop_Homepage_2018_1_11G1_files/10-tv55-fhd-smart-lg.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Exito" --no-check-certificate file:///S:/Reports/Colombia/Exito/Desktop/Homepage/HTML/Colombia_Exito_Desktop_Homepage_2018_1_11G1_files/11-tv-monitor-24-samsung.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Exito" --no-check-certificate file:///S:/Reports/Colombia/Exito/Desktop/Homepage/HTML/Colombia_Exito_Desktop_Homepage_2018_1_11G1_files/13-TV-LED-140-CMS-UHD.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Exito" --no-check-certificate file:///S:/Reports/Colombia/Exito/Desktop/Homepage/HTML/Colombia_Exito_Desktop_Homepage_2018_1_11G1_files/16-tv-43-lg-fhd.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Exito" --no-check-certificate file:///S:/Reports/Colombia/Exito/Desktop/Homepage/HTML/Colombia_Exito_Desktop_Homepage_2018_1_11G1_files/17-tv-43-lg-106-cms-4k.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Exito" --no-check-certificate file:///S:/Reports/Colombia/Exito/Desktop/Homepage/HTML/Colombia_Exito_Desktop_Homepage_2018_1_11G1_files/2-audio-video-samsung-twocol.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Exito" --no-check-certificate file:///S:/Reports/Colombia/Exito/Desktop/Homepage/HTML/Colombia_Exito_Desktop_Homepage_2018_1_11G1_files/2-samsung-galaxy-j7-metal-occidente.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Exito" --no-check-certificate file:///S:/Reports/Colombia/Exito/Desktop/Homepage/HTML/Colombia_Exito_Desktop_Homepage_2018_1_11G1_files/4-tv-32-samsung-smart.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Exito" --no-check-certificate file:///S:/Reports/Colombia/Exito/Desktop/Homepage/HTML/Colombia_Exito_Desktop_Homepage_2018_1_11G1_files/5-asus-zenfone-3max-plus.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Exito" --no-check-certificate file:///S:/Reports/Colombia/Exito/Desktop/Homepage/HTML/Colombia_Exito_Desktop_Homepage_2018_1_11G1_files/5-tv43-fhd-samsung-smart.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Exito" --no-check-certificate file:///S:/Reports/Colombia/Exito/Desktop/Homepage/HTML/Colombia_Exito_Desktop_Homepage_2018_1_11G1_files/7-tv-49-fhd-samsung-smart.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Exito" --no-check-certificate file:///S:/Reports/Colombia/Exito/Desktop/Homepage/HTML/Colombia_Exito_Desktop_Homepage_2018_1_11G1_files/tv-reaccion.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Exito" --no-check-certificate https://www.exito.com/images/category/home/dinamicos/20180106/audio
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Exito" --no-check-certificate https://www.exito.com/images/category/home/dinamicos/20180106/audio-video/1-combo-samsung-twocol.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Exito" --no-check-certificate https://www.exito.com/images/category/home/dinamicos/20180106/audio-video/11-TV-LED-140-CMS-UHD.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Exito" --no-check-certificate https://www.exito.com/images/category/home/dinamicos/20180106/audio-video/12-audio-video-lg.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Exito" --no-check-certificate https://www.exito.com/images/category/home/dinamicos/20180106/audio-video/2-audio-video-samsung-twocol.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Exito" --no-check-certificate https://www.exito.com/images/category/home/dinamicos/20180106/audio-video/3-tv-32-samsung-smart.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Exito" --no-check-certificate https://www.exito.com/images/category/home/dinamicos/20180106/audio-video/4-lo-mas-vendido-tv-samsung-mp.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Exito" --no-check-certificate https://www.exito.com/images/category/home/dinamicos/20180106/audio-video/5-tv43-fhd-samsung-smart.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Exito" --no-check-certificate https://www.exito.com/images/category/home/dinamicos/20180106/audio-video/6-tv-49-fhd-samsung-smart.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Exito" --no-check-certificate https://www.exito.com/images/category/home/dinamicos/20180106/audio-video/9-tv-monitor-24-samsung.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Exito" --no-check-certificate https://www.exito.com/images/category/home/dinamicos/20180106/celulares/1-moto-z-moto-mods.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Exito" --no-check-certificate https://www.exito.com/images/category/home/dinamicos/20180106/celulares/2-celulares-samsung.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Exito" --no-check-certificate https://www.exito.com/images/category/home/dinamicos/20180106/celulares/3-moto-e4-plus.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Exito" --no-check-certificate https://www.exito.com/images/category/home/dinamicos/20180106/celulares/4-iphone-8-iphone-x-mp.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Exito" --no-check-certificate https://www.exito.com/images/category/home/dinamicos/20180106/celulares/5-pieza-motog-5s.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Exito" --no-check-certificate https://www.exito.com/images/category/home/dinamicos/20180106/electrodomesticos/2-electrodomesticos-samsung.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Exito" --no-check-certificate https://www.exito.com/images/category/home/dinamicos/20180109/audio-video/1-combo-samsung-twocol.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Exito" --no-check-certificate https://www.exito.com/images/category/home/dinamicos/20180109/audio-video/10-tv55-fhd-smart-lg.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Exito" --no-check-certificate https://www.exito.com/images/category/home/dinamicos/20180109/audio-video/11-tv-monitor-24-samsung.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Exito" --no-check-certificate https://www.exito.com/images/category/home/dinamicos/20180109/audio-video/13-TV-LED-140-CMS-UHD.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Exito" --no-check-certificate https://www.exito.com/images/category/home/dinamicos/20180109/audio-video/15-tv-49-119-cms-lg-uhd-4k.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Exito" --no-check-certificate https://www.exito.com/images/category/home/dinamicos/20180109/audio-video/16-tv-43-lg-fhd.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Exito" --no-check-certificate https://www.exito.com/images/category/home/dinamicos/20180109/audio-video/17-tv-43-lg-106-cms-4k.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Exito" --no-check-certificate https://www.exito.com/images/category/home/dinamicos/20180109/audio-video/19-tv-lg-49-fhd.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Exito" --no-check-certificate https://www.exito.com/images/category/home/dinamicos/20180109/audio-video/2-audio-video-samsung-twocol.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Exito" --no-check-certificate https://www.exito.com/images/category/home/dinamicos/20180109/audio-video/3-tv-lg-55-mp.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Exito" --no-check-certificate https://www.exito.com/images/category/home/dinamicos/20180109/audio-video/4-tv-32-samsung-smart.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Exito" --no-check-certificate https://www.exito.com/images/category/home/dinamicos/20180109/audio-video/5-tv43-fhd-samsung-smart.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Exito" --no-check-certificate https://www.exito.com/images/category/home/dinamicos/20180109/audio-video/7-tv-49-fhd-samsung-smart.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Exito" --no-check-certificate https://www.exito.com/images/category/home/dinamicos/20180109/audio-video/tv-reaccion.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Exito" --no-check-certificate https://www.exito.com/images/category/home/dinamicos/20180109/celulares/1-moto-z-moto-mods.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Exito" --no-check-certificate https://www.exito.com/images/category/home/dinamicos/20180109/celulares/2-samsung-galaxy-j7-metal-occidente.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Exito" --no-check-certificate https://www.exito.com/images/category/home/dinamicos/20180109/celulares/3-samsung-galaxy-s7-edge-mp.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Exito" --no-check-certificate https://www.exito.com/images/category/home/dinamicos/20180109/celulares/5-asus-zenfone-3max-plus.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Exito" --no-check-certificate https://www.exito.com/images/category/home/dinamicos/20180111/audio-video/1-combo-samsung-twocol-1.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Exito" --no-check-certificate https://www.exito.com/images/category/home/dinamicos/20180111/audio-video/12-TV-LED-140-CMS-UHD.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Exito" --no-check-certificate https://www.exito.com/images/category/home/dinamicos/20180111/audio-video/13-audio-video-lg.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Exito" --no-check-certificate https://www.exito.com/images/category/home/dinamicos/20180111/audio-video/2-audio-video-samsung-twocol.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Exito" --no-check-certificate https://www.exito.com/images/category/home/dinamicos/20180111/audio-video/8-tv-samsung-49-uhd-smart.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Exito" --no-check-certificate https://www.exito.com/images/category/home/dinamicos/20180111/audio-video/reaccion_tv.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Exito" --no-check-certificate https://www.exito.com/images/category/home/dinamicos/20180111/enfrentados/1-tv-samsung-49-uhd-smart.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Exito" --no-check-certificate https://www.exito.com/images/category/home/dinamicos/20180111/enfrentados/10-portatil-acer.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Exito" --no-check-certificate https://www.exito.com/images/category/home/dinamicos/20180111/enfrentados/12-portatil-azus.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Exito" --no-check-certificate https://www.exito.com/images/category/home/dinamicos/20180111/enfrentados/12-portatil-lenovo.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Exito" --no-check-certificate https://www.exito.com/images/category/home/dinamicos/20180111/enfrentados/2-tv43-fhd-samsung-smart.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Exito" --no-check-certificate https://www.exito.com/images/category/home/dinamicos/20180111/enfrentados/3-tv-lg-49-mp.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Exito" --no-check-certificate https://www.exito.com/images/category/home/dinamicos/20180111/enfrentados/4-tv-49-led-uhd-mp.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Exito" --no-check-certificate https://www.exito.com/images/category/home/dinamicos/20180111/enfrentados/5-samsung-galaxy-s7-edge-mp.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Exito" --no-check-certificate https://www.exito.com/images/category/home/dinamicos/20180111/enfrentados/6-iphine-6-mp.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Exito" --no-check-certificate https://www.exito.com/images/category/home/dinamicos/20180111/enfrentados/7-asus-zenfone-3max-plus.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Exito" --no-check-certificate https://www.exito.com/images/category/home/dinamicos/20180111/enfrentados/8-huawei-y7.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Exito" --no-check-certificate https://www.exito.com/images/category/home/dinamicos/20180113/audio-video/4-tv43-fhd-samsung-smart.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Exito" --no-check-certificate https://www.exito.com/images/category/home/dinamicos/20180113/audio-video/6-tv-49-fhd-samsung-smart.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Exito" --no-check-certificate https://www.exito.com/images/category/home/dinamicos/20180113/tecnologia/10-portatil-acer-aspire-e.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Exito" --no-check-certificate https://www.exito.com/images/category/home/dinamicos/20180113/tecnologia/11-portatil-hp-14-am094la.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Exito" --no-check-certificate https://www.exito.com/images/category/home/dinamicos/20180113/tecnologia/2-portatiles-2n1-mp.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Exito" --no-check-certificate https://www.exito.com/images/category/home/dinamicos/20180113/tecnologia/3-portatiles-impresoras-mp.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Exito" --no-check-certificate https://www.exito.com/images/category/home/dinamicos/20180113/tecnologia/5-portatil-asus-vivobook-occidente.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Exito" --no-check-certificate https://www.exito.com/images/category/home/dinamicos/20180113/tecnologia/7-portatil-lenovo-idea-320-a12.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Exito" --no-check-certificate https://www.exito.com/images/category/home/dinamicos/20180113/tecnologia/8-portatil-acer-occidente.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Exito" --no-check-certificate https://www.exito.com/images/category/home/dinamicos/20180812/celulares/1-asus-zenfone-3max-plus.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Exito" --no-check-certificate https://www.exito.com/images/category/home/dinamicos/20180812/celulares/2-samsumg-j7-prime-blanco-dorado-mp.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Exito" --no-check-certificate https://www.exito.com/images/category/home/dinamicos/20180812/celulares/3-samsung-galaxy-j7-metal-occidente.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Exito" --no-check-certificate https://www.exito.com/images/category/home/dinamicos/20180812/celulares/4-asus-zenfone-4-negro.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Exito" --no-check-certificate https://www.exito.com/images/category/home/dinamicos/20180812/celulares/lg-k10.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Exito" --no-check-certificate https://www.exito.com/images/category/home/dinamicos/20180812/tecnologia/3-portatiles-all-in-one-asus-mp.jpg
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Exito" --no-check-certificate https://www.exito.com/images/category/home/dinamicos/20180812/tecnologia/4-portatil-acer-aspire-es-occidente.jpg
+
+
+REM Falabella Banners
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Falabella" --no-check-certificate https://s7d5.scene7.com/is/image/FalabellaCO/hero_celulares_s7_j5_vr?$Hero_XL$
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Falabella" --no-check-certificate https://s7d5.scene7.com/is/image/FalabellaCO/hero_tv_40_crvr?$Hero_XL$
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Falabella" --no-check-certificate https://s7d5.scene7.com/is/image/FalabellaCO/hero2_rebajas_televisores?$Hero_XL$
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Falabella" --no-check-certificate https://s7d5.scene7.com/is/image/FalabellaCO/hero3_rebajas_celulares?$Hero_XL$
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Falabella" --no-check-certificate https://s7d5.scene7.com/is/image/FalabellaCO/PC8-Home-Mobile_5Enero?$PC_mobile$
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Falabella" --no-check-certificate https://s7d5.scene7.com/is/image/FalabellaCO/PC9_LineaBlanca_M_1?$PC_mobile$
+
+
+REM Jumbo Banners
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Jumbo" --no-check-certificate https://www.tiendasjumbo.co/arquivos/BNR-HOME-SUP--electro-samsung-11-enero-2018.jpg?v=636507908050470000
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Jumbo" --no-check-certificate https://www.tiendasjumbo.co/arquivos/BNR-HOME-SUP-CEL-electro-lg-120117-v3-min.jpg?v=636513863049900000
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Jumbo" --no-check-certificate https://www.tiendasjumbo.co/arquivos/BNR-HOME-SUP-CEL-MIX-8-ENE-min.jpg?v=636507908280830000
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Jumbo" --no-check-certificate https://www.tiendasjumbo.co/arquivos/BNR-HOME-SUP-CEL-Samsung-10-ENE-v2.jpg?v=636511144307130000
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Jumbo" --no-check-certificate https://www.tiendasjumbo.co/arquivos/BNR-HOME-SUP-CEL-Samsung-10-ENE.jpg?v=636507896063670000
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Jumbo" --no-check-certificate https://www.tiendasjumbo.co/arquivos/BNR-HOME-SUP-compu-lenovo-18-enero-2018.jpg?v=636507908510570000
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Jumbo" --no-check-certificate https://www.tiendasjumbo.co/arquivos/BNR-HOME-SUP-compu-lenovo-Back-School-18Ene.jpg?v=636513034678670000
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Jumbo" --no-check-certificate https://www.tiendasjumbo.co/arquivos/BNR-HOME-SUP-electro-samsung-100117-min.jpg?v=636512137680000000
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Jumbo" --no-check-certificate https://www.tiendasjumbo.co/arquivos/BNR-HOME-SUP-LIQUIDACION-TECNOLOGIA-ENERO-2018.jpg?v=636513041555000000
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Jumbo" --no-check-certificate https://www.tiendasjumbo.co/arquivos/BnrHome-Inferior-SXH-Samsung-J1-10-Ene.jpg?v=636511303690270000
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Jumbo" --no-check-certificate https://www.tiendasjumbo.co/arquivos/Vtr-home-electro-lg-100118-min.jpg?v=636512059395600000
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Jumbo" --no-check-certificate https://www.tiendasjumbo.co/arquivos/VtrHome_NONFOOD-Electro_Samsung_040118-min-v2.jpg?v=636507572403400000
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Jumbo" --no-check-certificate https://www.tiendasjumbo.co/arquivos/VtrHome_NONFOOD-Televisores_Samsung_040118-min.jpg?v=636507028036800000
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Jumbo" --no-check-certificate https://www.tiendasjumbo.co/arquivos/VtrHome-CEL-LG-17-Ene-min.jpg?v=636507908316730000
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Jumbo" --no-check-certificate https://www.tiendasjumbo.co/arquivos/VtrHome-cel-mix-110118-min.jpg?v=636513027720030000
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Jumbo" --no-check-certificate https://www.tiendasjumbo.co/arquivos/VtrHome-cel-samsung-100118-min.jpg?v=636512137701970000
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Jumbo" --no-check-certificate https://www.tiendasjumbo.co/arquivos/VtrHome-Electro-LG-40dto-9-11-enero-2018.jpg?v=636511277084800000
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Jumbo" --no-check-certificate https://www.tiendasjumbo.co/arquivos/VtrHome-electro-samsung-110118-min.jpg?v=636513033228170000
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Jumbo" --no-check-certificate https://www.tiendasjumbo.co/arquivos/VtrHome-electro-samsung-120118-v3-min.jpg?v=636513863061600000
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Jumbo" --no-check-certificate https://www.tiendasjumbo.co/arquivos/VtrHome-sxh-j7-10-enero-2018.jpg?v=636511305531200000
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Jumbo" --no-check-certificate https://www.tiendasjumbo.co/arquivos/VtrHome-Televisores-Lg-Dtacado-55inch-020117-v2-2-min.jpg?v=636506908251870000
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Jumbo" --no-check-certificate https://www.tiendasjumbo.co/arquivos/VtrHome-tv-mix-110118-min.jpg?v=636513033262530000
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Jumbo" --no-check-certificate https://www.tiendasjumbo.co/arquivos/VtrHome-tv-mix-110118-v3-min.jpg?v=636513863081770000
+wget -P "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Jumbo" --no-check-certificate https://www.tiendasjumbo.co/arquivos/VTRS-HOME-FOOD-electro-LG-8-enero-2018-v2.jpg?v=636511022132900000
+
+
+
+
+cd "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Alkosto"
+rename * *.jpg
+cd "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Exito"
+rename * *.jpg
+cd "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Falabella"
+rename * *.jpg
+cd "C:\Users\wsantos\Desktop\Banners-%date:~6,4%-%date:~3,2%-%date:~0,2%_%time:~0,2%h\Banners_Jumbo"
+rename * *.jpg
